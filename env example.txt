@@ -1,0 +1,5 @@
+PGHOST=hostname
+PGPORT=portnumber
+PGUSER=user
+PGPASSWORD=password
+PGDATABASE=databasename
